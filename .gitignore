@@ -1,0 +1,4 @@
+.pytest_cache
+.venv
+event_datafile_new.csv
+.DS_Store
